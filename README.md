@@ -1,4 +1,5 @@
 # hello-world
 
-Branching is fun for 1.02 with a new pull!
+Branching is fun for Trunk 1.00.00
+
 
