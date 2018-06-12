@@ -1,4 +1,4 @@
 # hello-world
 
-Branching is fun for 1.02
+Branching is fun for Trunk 1.00.00
 
